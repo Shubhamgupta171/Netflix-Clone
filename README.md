@@ -2,7 +2,8 @@
 Welcome to the Netflix Clone Frontend! This project is a web application that replicates the frontend user interface of the popular streaming platform Netflix.
 Users can enjoy browsing and watching movies and TV shows with a user-friendly and responsive design.
 
-#Technologies Used
+# Technologies Used
+
 HTML: Structure for web pages.
 CSS: Styling for a visually appealing interface.
 JavaScript: Dynamic and interactive user interface.
